@@ -26,8 +26,7 @@
 | **Рабіна-Карпа** | 5.00003807246685e-07    | 3.00002284348011e-07       |
 
 ---
-![image](https://github.com/user-attachments/assets/678da494-1c25-4898-b4fb-1d697b6dbe05)
-
+![image](https://github.com/user-attachments/assets/c6c8601a-8a04-4b83-8628-598ab130f397)
 
 # Короткі висновки
 
@@ -46,3 +45,6 @@
 
 ```
 **Примітка**: Час виконання подано у вигляді експоненційного запису (наприклад, `5.00003807246685e-07` відповідає приблизно \(5 \times 10^{-7}\) секунди).
+
+![image](https://github.com/user-attachments/assets/b0dc2567-836f-418d-9b09-c1b0b39451fe)
+
